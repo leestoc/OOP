@@ -1,0 +1,14 @@
+ Available input:
+1 - input pentagon
+2 - input Rhombus
+3 - input hexagon
+4 - Tuple
+5 - Exit
+2
+Input Rhombus coordinates: 
+0 0 1 1 2 2 3 3
+terminate called after throwing an instance of 'std::logic_error'
+  what():  Wrong coordinates. It's not a rhombus.
+Aborted (core dumped)
+
+

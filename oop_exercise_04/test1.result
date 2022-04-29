@@ -1,0 +1,18 @@
+ Available input:
+1 - input pentagon
+2 - input Rhombus
+3 - input hexagon
+4 - Tuple
+5 - Exit
+Input Rhombus coordinates: 
+(0;0) (0;2) (2;2) (2;0)
+Area: 4
+Center: (1;1)
+Input pentagon coordinates: 
+(1;1) (0;2) (1;3) (2;3) (3;2)
+Area: 3.5
+Center: (1.4;2.2)
+Input hexagon coordinates: 
+(2;0) (1;2) (2;4) (4;4) (5;2) (4;0)
+Area: 12
+Center: (3;2)

@@ -1,0 +1,29 @@
+Add
+Square
+0 0 0 5 5 5 5 0
+Add
+Triangle
+0 0 1 1 2 0
+Add
+Rectangle
+6 7 6 15 20 15 20 7
+Area
+0
+Area
+1
+Area
+2
+Print_all
+Center
+0
+Center
+1
+Center
+2
+Total_area
+Delete
+2
+Total_area
+Delete_all
+Print_all
+Quit
